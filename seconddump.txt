@@ -1,0 +1,81 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: D:/User_Phil/Desktop/wordcheck.py =================
+a - OK! - NEW LONGEST
+aa - OK! - NEW LONGEST
+aaa - OK! - NEW LONGEST
+aah - OK! - Same length as previous longest.
+Current longest words - 
+['aaa', 'aah']
+aahed - OK! - NEW LONGEST
+ababdeh - OK! - NEW LONGEST
+abacate - OK! - Same length as previous longest.
+Current longest words - 
+['ababdeh', 'abacate']
+abaculus - OK! - NEW LONGEST
+abacuses - OK! - Same length as previous longest.
+Current longest words - 
+['abaculus', 'abacuses']
+abasedly - OK! - Same length as previous longest.
+Current longest words - 
+['abaculus', 'abacuses', 'abasedly']
+abasedness - OK! - NEW LONGEST
+abashedness - OK! - NEW LONGEST
+abashlessly - OK! - Same length as previous longest.
+Current longest words - 
+['abashedness', 'abashlessly']
+abjectedness - OK! - NEW LONGEST
+abstractable - OK! - Same length as previous longest.
+Current longest words - 
+['abjectedness', 'abstractable']
+abstractedly - OK! - Same length as previous longest.
+Current longest words - 
+['abjectedness', 'abstractable', 'abstractedly']
+abstractedness - OK! - NEW LONGEST
+abstrusenesses - OK! - Same length as previous longest.
+Current longest words - 
+['abstractedness', 'abstrusenesses']
+acceptableness - OK! - Same length as previous longest.
+Current longest words - 
+['abstractedness', 'abstrusenesses', 'acceptableness']
+aceacenaphthene - OK! - NEW LONGEST
+acetaldehydrase - OK! - Same length as previous longest.
+Current longest words - 
+['aceacenaphthene', 'acetaldehydrase']
+addleheadedness - OK! - Same length as previous longest.
+Current longest words - 
+['aceacenaphthene', 'acetaldehydrase', 'addleheadedness']
+archpresbyterate - OK! - NEW LONGEST
+beetleheadedness - OK! - Same length as previous longest.
+Current longest words - 
+['archpresbyterate', 'beetleheadedness']
+blunderheadedness - OK! - NEW LONGEST
+characterlessness - OK! - Same length as previous longest.
+Current longest words - 
+['blunderheadedness', 'characterlessness']
+feebleheartedness - OK! - Same length as previous longest.
+Current longest words - 
+['blunderheadedness', 'characterlessness', 'feebleheartedness']
+hyperaccurateness - OK! - Same length as previous longest.
+Current longest words - 
+['blunderheadedness', 'characterlessness', 'feebleheartedness', 'hyperaccurateness']
+hyperbrachycephal - OK! - Same length as previous longest.
+Current longest words - 
+['blunderheadedness', 'characterlessness', 'feebleheartedness', 'hyperaccurateness', 'hyperbrachycephal']
+hyperbrachycephaly - OK! - NEW LONGEST
+phenylacetaldehyde - OK! - Same length as previous longest.
+Current longest words - 
+['hyperbrachycephaly', 'phenylacetaldehyde']
+subtransparentness - OK! - Same length as previous longest.
+Current longest words - 
+['hyperbrachycephaly', 'phenylacetaldehyde', 'subtransparentness']
+superadaptableness - OK! - Same length as previous longest.
+Current longest words - 
+['hyperbrachycephaly', 'phenylacetaldehyde', 'subtransparentness', 'superadaptableness']
+superrespectableness - OK! - NEW LONGEST
+supersuperabundantly - OK! - Same length as previous longest.
+Current longest words - 
+['superrespectableness', 'supersuperabundantly']
+supertranscendentness - OK! - NEW LONGEST
+>>> 

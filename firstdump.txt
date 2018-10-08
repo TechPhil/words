@@ -1,0 +1,78 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: D:/User_Phil/Desktop/wordcheck.py =================
+a - OK! - NEW LONGEST
+aa - OK! - NEW LONGEST
+aaa - OK! - NEW LONGEST
+aah - OK! - Same length as previous longest.
+Current longest words - 
+['aaa', 'aah']
+aahed - OK! - NEW LONGEST
+aalii - OK! - Same length as previous longest.
+Current longest words - 
+['aahed', 'aalii']
+aaliis - OK! - NEW LONGEST
+aaronic - OK! - NEW LONGEST
+aaronical - OK! - NEW LONGEST
+aaronitic - OK! - Same length as previous longest.
+Current longest words - 
+['aaronical', 'aaronitic']
+abacinate - OK! - Same length as previous longest.
+Current longest words - 
+['aaronical', 'aaronitic', 'abacinate']
+abacination - OK! - NEW LONGEST
+abactinally - OK! - Same length as previous longest.
+Current longest words - 
+['abacination', 'abactinally']
+abalienated - OK! - Same length as previous longest.
+Current longest words - 
+['abacination', 'abactinally', 'abalienated']
+abalienation - OK! - NEW LONGEST
+abarticulation - OK! - NEW LONGEST
+abyssobenthonic - OK! - NEW LONGEST
+absolutistically - OK! - NEW LONGEST
+acanthocephalous - OK! - Same length as previous longest.
+Current longest words - 
+['absolutistically', 'acanthocephalous']
+acculturationist - OK! - Same length as previous longest.
+Current longest words - 
+['absolutistically', 'acanthocephalous', 'acculturationist']
+acetylacetonates - OK! - Same length as previous longest.
+Current longest words - 
+['absolutistically', 'acanthocephalous', 'acculturationist', 'acetylacetonates']
+acetylasalicylic - OK! - Same length as previous longest.
+Current longest words - 
+['absolutistically', 'acanthocephalous', 'acculturationist', 'acetylacetonates', 'acetylasalicylic']
+acetylcholinesterase - OK! - NEW LONGEST
+adrenocorticosteroid - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid']
+adrenocorticotrophic - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid', 'adrenocorticotrophic']
+adrenocorticotrophin - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid', 'adrenocorticotrophic', 'adrenocorticotrophin']
+antiaristocratically - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid', 'adrenocorticotrophic', 'adrenocorticotrophin', 'antiaristocratically']
+anticapitalistically - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid', 'adrenocorticotrophic', 'adrenocorticotrophin', 'antiaristocratically', 'anticapitalistically']
+anticonfederationist - OK! - Same length as previous longest.
+Current longest words - 
+['acetylcholinesterase', 'adrenocorticosteroid', 'adrenocorticotrophic', 'adrenocorticotrophin', 'antiaristocratically', 'anticapitalistically', 'anticonfederationist']
+anticonstitutionalist - OK! - NEW LONGEST
+antiinstitutionalists - OK! - Same length as previous longest.
+Current longest words - 
+['anticonstitutionalist', 'antiinstitutionalists']
+antinationalistically - OK! - Same length as previous longest.
+Current longest words - 
+['anticonstitutionalist', 'antiinstitutionalists', 'antinationalistically']
+antisupernaturalistic - OK! - Same length as previous longest.
+Current longest words - 
+['anticonstitutionalist', 'antiinstitutionalists', 'antinationalistically', 'antisupernaturalistic']
+chlorotrifluoroethylene - OK! - NEW LONGEST
+dichlorodiphenyltrichloroethane - OK! - NEW LONGEST
+>>> 
